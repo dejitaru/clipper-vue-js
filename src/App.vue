@@ -32,6 +32,7 @@
         <button type="button" class="btn btn-secondary" @click.prevent="closeCrop">Cerrar</button>
         <button type="button" class="btn btn-upload-tickets-bg" @click.prevent="saveImage">Guardar</button>
     </div>
+    Probando github.dev
     <img src="http://gestudios.com/assets/img/carlos-guevara.jpg"  id="myimage">
   </div>
 </template>
